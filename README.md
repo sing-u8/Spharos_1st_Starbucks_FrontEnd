@@ -1,36 +1,54 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 팀 티라미숙해! 👋
 
-## Getting Started
+### 🏆 스타벅스 클론코딩 프로젝트 (2024/08/06 ~ 2024/09/29)
 
-First, run the development server:
+이 프로젝트는 신세계 I&C 및 부산광역시 주관 **스파로스 아카데미**에서 진행된 **스타벅스 클론코딩 프로젝트**입니다.  
+실제 스타벅스 서비스를 최대한 비슷하게 구현하는 것을 목표로 하고 최대한 노력하였습니다!  
+팀 이름에서 볼 수 있듯 비록 팀원 모두가 MBTI T라서 부족한 부분이 있지만 최선을 다해 프로젝트를 진행했습니다! 😄
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 👨‍👩‍👧‍👦 **팀원 소개**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+| **Role**        | **이름**    | **이메일** |**담당 기능**                                              |
+|-----------------|-------------|------------|------------------------------------------------------------|
+| **프론트엔드**   | 박신규 (팀장) | singyu13@gmail.com | 로그인, 회원가입, 상품 조회, 상품 리뷰 조회                    |
+| **백엔드** | 김나경 (팀원)      | swgm0719@gmail.com | 상품, 카테고리                                            |
+| **백엔드/ 인프라**       | 백승엽 (팀원)      | deu20183198@gmail.com | 주문, 리뷰, 찜, 상품권, CI/CD, HTTPS 보안 설정, S3                  |
+| **백엔드**       | 신지훈 (팀원)      | tlswl7479@gmail.com | 로그인, 회원가입, 배송지, 이벤트                           |
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+---
 
-## Learn More
+## 🛠️ **기술 스택**
 
-To learn more about Next.js, take a look at the following resources:
+### **Frontend**  
+- **NEXTJS**  
+- **Next Auth**  
+- **TailWind**
+- **Versel**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### **Backend**  
+- **Spring Boot**  
+- **JPA / QueryDSL**  
+- **MySQL**  
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### **Infra**  
+- **GitHub Actions**  
+- **AWS S3**  
+- **Nginx**
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 💡 **프로젝트 소개**
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+이 프로젝트는 실제 스타벅스 서비스의 클론을 목표로 하고 있으며, 주요 기능은 다음과 같습니다:
+
+- **회원가입 및 로그인**  
+- **상품 조회 및 리뷰 조회**
+- **배송지 조회**  
+
+---
+
+## 📜 **프로젝트 기간**  
+2024년 8월 6일 ~ 2024년 9월 29일
+
